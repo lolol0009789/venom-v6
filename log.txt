@@ -1,0 +1,67 @@
+UserID: 6571863767 | Time: 2024-09-26 11:38:04.443691 | Command: /bgmi | Target: 20.198.78.217 | Port: 13707 | Time: 240
+Username: UserID: 6571863767
+Target: 20.198.78.217
+Port: 13707
+Time: 240
+
+UserID: 6571863767 | Time: 2024-09-26 11:49:16.886819 | Command: /bgmi | Target: 20.204.19.72 | Port: 10278 | Time: 240
+Username: UserID: 6571863767
+Target: 20.204.19.72
+Port: 10278
+Time: 240
+
+UserID: 6571863767 | Time: 2024-09-26 11:53:22.846333 | Command: /bgmi | Target: 20.204.19.72 | Port: 10278 | Time: 60
+Username: UserID: 6571863767
+Target: 20.204.19.72
+Port: 10278
+Time: 60
+
+UserID: 6571863767 | Time: 2024-09-26 12:00:54.475407 | Command: /bgmi | Target: 20.204.39.31 | Port: 19212 | Time: 240
+Username: UserID: 6571863767
+Target: 20.204.39.31
+Port: 19212
+Time: 240
+
+UserID: 6571863767 | Time: 2024-09-26 12:05:05.361607 | Command: /bgmi | Target: 20.204.39.31 | Port: 19212 | Time: 60
+UserID: 6571863767 | Time: 2024-09-26 12:05:10.533768 | Command: /bgmi | Target: 20.204.39.31 | Port: 19212 | Time: 60
+Username: UserID: 6571863767
+Target: 20.204.39.31
+Port: 19212
+Time: 60
+
+UserID: 6571863767 | Time: 2024-09-26 12:27:13.143222 | Command: /bgmi | Target: 20.235.147.234 | Port: 11342 | Time: 240
+UserID: 6571863767 | Time: 2024-09-26 12:27:13.143137 | Command: /bgmi | Target: 20.235.147.234 | Port: 11342 | Time: 240
+Username: UserID: 6571863767
+Target: 20.235.147.234
+Port: 11342
+Time: 240
+
+Username: UserID: 6571863767
+Target: 20.235.147.234
+Port: 11342
+Time: 240
+
+UserID: 6571863767 | Time: 2024-09-26 12:31:15.028538 | Command: /bgmi | Target: 20.235.147.234 | Port: 11342 | Time: 240
+Username: UserID: 6571863767
+Target: 20.235.147.234
+Port: 11342
+Time: 240
+
+UserID: 6571863767 | Time: 2024-09-26 12:32:44.728662 | Command: /bgmi | Target: 4.247.17.228 | Port: 10548 | Time: 240
+Username: UserID: 6571863767
+Target: 4.247.17.228
+Port: 10548
+Time: 240
+
+UserID: 6571863767 | Time: 2024-09-26 12:40:07.992644 | Command: /bgmi | Target: 4.247.17.228 | Port: 10548 | Time: 120
+Username: UserID: 6571863767
+Target: 4.247.17.228
+Port: 10548
+Time: 120
+
+UserID: 6571863767 | Time: 2024-09-26 12:40:39.891166 | Command: /bgmi | Target: 4.247.17.228 | Port: 10548 | Time: 120
+Username: UserID: 6571863767
+Target: 4.247.17.228
+Port: 10548
+Time: 120
+
